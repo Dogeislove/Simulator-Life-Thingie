@@ -1,4 +1,4 @@
-Currently in The Bastic Stage of Development.
+Currently in The Basic Stage of Development.
 Basic Wishlist:
 (1)	Create Character
 (2)	Stats
