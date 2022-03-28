@@ -1,8 +1,9 @@
-This roadmap is highly simplified as i'll use this as a base-line for programming and creating an idea on how this should work.
+This roadmap is highly simplified as i'll use this as a base-line for programming and creating an idea on how this should work. I won't do any 'feature creeping'
+I'll just work on creating the sort of 'Life Simulator Engine'. 
 Basic Road Map:
           (1) Create Character and Enviorment. 
           (2) Have a start to finish playthrough (very bare bones)
-         
+          (3) Maybe add the interesting stuff here
          
          
          Character:
